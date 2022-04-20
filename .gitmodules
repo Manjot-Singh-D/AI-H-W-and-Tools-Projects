@@ -1,0 +1,6 @@
+[submodule "OCR_Project"]
+	path = OCR_Project
+	url = https://github.com/Manjot-Singh-D/OCR_Project.git
+[submodule "My-Community-App"]
+	path = My-Community-App
+	url = https://github.com/Manjot-Singh-D/My-Community-App.git
